@@ -47,12 +47,6 @@ class BankAccount {
         }
     }
 
-    /*
-    // TODO: 12/01/2021
-    menu must reappear every time you select a new option
-    add currency to numbers
-
-     */
     void showMenu() {
         char option;
         Scanner scanner = new Scanner(System.in);
